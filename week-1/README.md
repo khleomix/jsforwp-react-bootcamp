@@ -5,4 +5,4 @@ Elements, Components & JSX
 Build a simple one page website with a static header, footer and main content area.
 
 ### Code Sandbox
-[Code Sandbox](https://codesandbox.io/s/jsforwp-react-bootcamp-week-1-pxlws).
+Here's the link to my [Code Sandbox](https://codesandbox.io/s/jsforwp-react-bootcamp-week-1-pxlws).
