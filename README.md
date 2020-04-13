@@ -13,5 +13,6 @@ Assignments and projects for the [React Bootcamp](https://javascriptforwp.com/bo
 
 ## Week 3
 
-- [Week 3 Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-3/exercises)
+- [Week 3 Props Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-3/exercises/props)
+- [Week 3 State Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-3/exercises/state)
 - [Week 3 Project](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-3/project)
