@@ -16,3 +16,9 @@ Assignments and projects for the [React Bootcamp](https://javascriptforwp.com/bo
 - [Week 3 Props Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-3/exercises/Props)
 - [Week 3 State Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-3/exercises/State)
 - [Week 3 Project](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-3/project)
+
+## Week 4
+
+- [Week 4 Lifecycle Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-4/exercises/lifecycle)
+- [Week 4 Hooks Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-4/exercises/hooks)
+- [Week 4 Project](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-4/project)
