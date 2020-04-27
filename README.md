@@ -22,3 +22,8 @@ Assignments and projects for the [React Bootcamp](https://javascriptforwp.com/bo
 - [Week 4 Lifecycle Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-4/exercises/lifecycle)
 - [Week 4 Hooks Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-4/exercises/hooks)
 - [Week 4 Project](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-4/project)
+
+## Week 5
+
+- [Week 5 Context API Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-5/exercise)
+- [Week 5 Context API Project](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-5/project)
