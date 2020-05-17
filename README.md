@@ -28,3 +28,7 @@ Assignments and projects for the [React Bootcamp](https://javascriptforwp.com/bo
 - [Week 5 Context API Exercises](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-5/exercise)
 - [Week 5 Context API Project](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/week-5/project)
 - [Netlify site](https://loving-keller-c1c326.netlify.app/)
+
+## Final Project
+
+- [COVID-19 Case Profiles](https://github.com/khleomix/jsforwp-react-bootcamp/tree/master/case-profiles)
